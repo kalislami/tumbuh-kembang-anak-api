@@ -82,4 +82,4 @@ docker run -d -p 3000:3000 --name tumbuh-kembang-anak-api
 #### Please fork the repo and submit pull requests for contributions.
 
 ## Contact
-#### For questions, contact me at [email](kamalgoritm@gmail.com).
+#### For questions, contact me at [email](mailto:kamalgoritm@gmail.com).
