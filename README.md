@@ -31,12 +31,12 @@ Before running the API, make sure you have installed the following:
 
 ## Directory Structure
 #### /tumbuh-kembang-anak-api
-├── /__ test __       => Unit test directory
-├── /helpers          => For functions helper
-├── /models           => MongoDB models for child data
-├── /routes           => API route definitions
-├── index.js          => Main file to run the server
-└── package.json      => Dependencies and scripts for the project
+├── /__ test __       => Unit test directory.  
+├── /helpers          => For functions helper.  
+├── /models           => MongoDB models for child data.  
+├── /routes           => API route definitions.  
+├── index.js          => Main file to run the server.  
+└── package.json      => Dependencies and scripts for the project.  
 
 ## Running Unit Test
 **Run the command below, and it will display all test cases and coverage:**
