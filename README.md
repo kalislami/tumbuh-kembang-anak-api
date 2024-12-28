@@ -24,8 +24,8 @@ Before running the API, make sure you have installed the following:
 **Follow these steps to set up this project locally:**
 
    ```bash
-   git clone https://github.com/username/child-growth-and-development-api.git
-   cd child-growth-and-development-api
+   git clone https://github.com/kalislami/tumbuh-kembang-anak-api.git
+   cd tumbuh-kembang-anak-api
    npm install
    ```
 
