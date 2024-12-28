@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Nufail",
+        "usia": 4,
+        "beratBadan": 19,
+        "tinggiBadan": 103,
+        "milestone": [
+            {
+                "tipe": "Kemandirian",
+                "keterangan": "Anak mulai bisa memakai pakaian sendiri",
+                "tanggal": "2024-04-20"
+            }
+        ],
+        "_id": "676e27c54608945da2680778"
+    },
+    {
+        "nama": "Misyal",
+        "usia": 2,
+        "beratBadan": 10,
+        "tinggiBadan": 80,
+        "milestone": [
+            {
+                "tipe": "Motorik",
+                "keterangan": "Anak mulai bisa melompat",
+                "tanggal": "2024-10-25"
+            }
+        ],
+        "_id": "676e27c54608945da2680778"
+    }
+]
