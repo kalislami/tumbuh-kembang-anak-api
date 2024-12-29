@@ -71,7 +71,7 @@ npm run dev
 
 ```bash
 docker build --no-cache -t tumbuh-kembang-anak-api .
-docker run -d -p 3000:3000 --name tumbuh-kembang-anak-api
+docker run -d -p 3000:3000 --name tumbuh-kembang-anak-api tumbuh-kembang-anak-api
    ```
 - **The API can be accessed at localhost:3000.**
 
