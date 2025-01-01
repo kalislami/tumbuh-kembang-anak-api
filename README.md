@@ -13,6 +13,7 @@ This Web API provides various services to support the management of child growth
 - **Express** - A framework for building web applications with Node.js.
 - **MongoDB** - A NoSQL database to store data flexibly.
 - **Mongoose** - An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **Jest** - A framework for Unit Test.
 
 ## Prerequisites
 Before running the API, make sure you have installed the following:
